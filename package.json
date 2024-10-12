@@ -1,5 +1,6 @@
 {
   "name": "simple-react-portfolio",
+  "homepage": "http://shoebathar.in",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

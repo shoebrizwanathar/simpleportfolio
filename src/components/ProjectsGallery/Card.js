@@ -167,6 +167,7 @@ const useStyles = makeStyles((theme) => ({
         top: 0,
         height: "100%",
         width: "100%",
+        color: "#fff",
         backgroundColor: "rgba(0,0,0,0.97)",
         display: "flex",
         justifyContent: "center",
